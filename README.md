@@ -1,0 +1,2 @@
+# NoMediaManager
+Management .nomedia files.
